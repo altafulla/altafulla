@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/altafulla/altafulla/master/banner.png" alt="Teal">
 
-I'm a Software Developer with 6 years of experience in many fields: Desktop, Embedded systems, Full-stack web, Web services , Databases among others.
+I'm a Software Developer with 6 years of experience in fields like: Desktop, Embedded systems, Full-stack web, Web services , Databases among others.
 
 I am always eager to acquire bleeding-edge programming and engineering knowledge.
 
