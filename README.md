@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/altafulla/altafulla/master/banner.png" alt="Teal">
 
-I'm a Software Developer with 6 years of experience in fields like: Desktop, Embedded systems, Full-stack web, Web services , Databases among others.
+I'm a Software Developer, working professionally as such since early 2015 in fields like: Desktop, Embedded systems, Full-stack web, Web services , Databases among others.
 
 I am always eager to acquire bleeding-edge programming and engineering knowledge.
 
-My favorite programming languages are C# and Python, and lately, Typescript is on that list too.
+My favorite programming languages are C# and Python and Typescript.
 
 I like how technology is more accessible and available as time goes by. 💻
 
