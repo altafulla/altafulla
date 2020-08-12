@@ -6,7 +6,7 @@ I'm a Software Developer, working professionally as such since early 2015 in fie
 
 I am always eager to acquire bleeding-edge programming and engineering knowledge.
 
-My favorite programming languages are C# and Python and Typescript.
+My favorite programming languages are C#, Python and Typescript.
 
 I like how technology is more accessible and available as time goes by. 💻
 
