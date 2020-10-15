@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Developer, .NET devotee and Family man from Colombia.</h3>
 
-- 🔭 I’m currently working at [Lean-Tech.IO](https://www.lean-tech.io/)
+- 🔭 I  work @ [Lean-Tech.IO](https://www.lean-tech.io/)
 
 - 💬 Ask me about **.NET Core, Clean Architectures**
 
